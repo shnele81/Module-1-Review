@@ -1,0 +1,15 @@
+C:\Users\andy1\Desktop\repos\Module 1 Review\bin\Debug\net9.0\Module 1 Review.exe
+C:\Users\andy1\Desktop\repos\Module 1 Review\bin\Debug\net9.0\Module 1 Review.deps.json
+C:\Users\andy1\Desktop\repos\Module 1 Review\bin\Debug\net9.0\Module 1 Review.runtimeconfig.json
+C:\Users\andy1\Desktop\repos\Module 1 Review\bin\Debug\net9.0\Module 1 Review.dll
+C:\Users\andy1\Desktop\repos\Module 1 Review\bin\Debug\net9.0\Module 1 Review.pdb
+C:\Users\andy1\Desktop\repos\Module 1 Review\obj\Debug\net9.0\Module 1 Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy1\Desktop\repos\Module 1 Review\obj\Debug\net9.0\Module 1 Review.AssemblyInfoInputs.cache
+C:\Users\andy1\Desktop\repos\Module 1 Review\obj\Debug\net9.0\Module 1 Review.AssemblyInfo.cs
+C:\Users\andy1\Desktop\repos\Module 1 Review\obj\Debug\net9.0\Module 1 Review.csproj.CoreCompileInputs.cache
+C:\Users\andy1\Desktop\repos\Module 1 Review\obj\Debug\net9.0\Module 1 Review.sourcelink.json
+C:\Users\andy1\Desktop\repos\Module 1 Review\obj\Debug\net9.0\Module 1 Review.dll
+C:\Users\andy1\Desktop\repos\Module 1 Review\obj\Debug\net9.0\refint\Module 1 Review.dll
+C:\Users\andy1\Desktop\repos\Module 1 Review\obj\Debug\net9.0\Module 1 Review.pdb
+C:\Users\andy1\Desktop\repos\Module 1 Review\obj\Debug\net9.0\Module 1 Review.genruntimeconfig.cache
+C:\Users\andy1\Desktop\repos\Module 1 Review\obj\Debug\net9.0\ref\Module 1 Review.dll
